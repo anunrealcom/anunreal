@@ -1,0 +1,9 @@
+short_name = "anunreal"
+name = "AnUnreal Engine"
+major = 4
+minor = 8
+patch = 0
+status = "dev"
+module_config = ""
+website = "https://anunreal.com"
+docs = "latest"
